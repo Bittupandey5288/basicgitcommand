@@ -4,7 +4,7 @@ public class multiplication
      {
         int a=10;
         int b=20;
-        System.out.println("multiplication of the number is ="+a*b);
+        System.out.println("multiplication of the number is ="+(a*b));
         
      }
     
